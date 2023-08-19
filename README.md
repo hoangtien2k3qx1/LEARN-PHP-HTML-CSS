@@ -14,4 +14,6 @@ học php, html, css cơ bản
 - define("ten_hang", "gia_tri", true);
 - define("hang", "10", true);
 
-
+#### In ra màn hình trong PHP
+- dùng : echo "hoangtien2k3";
+- dùng : print "hoangtien2k3";
