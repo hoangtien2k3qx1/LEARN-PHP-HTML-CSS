@@ -17,3 +17,12 @@ học php, html, css cơ bản
 #### In ra màn hình trong PHP
 - dùng : echo "hoangtien2k3";
 - dùng : print "hoangtien2k3";
+
+#### Lấy độ dài của chuỗi
+- strlen() : lấy độ dài của chuỗi
+- str_str_word_count() : đếm xem có bao nhiêu từ.
+- strrev() : đảo ngược chuỗi
+- str_replate() : thay thế từ trong chuỗi
+
+
+
