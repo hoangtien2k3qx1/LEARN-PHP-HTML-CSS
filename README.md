@@ -149,6 +149,45 @@ Formatting elements were designed to display special types of text:
 
 
 
+## [HTML Tags]() : Các thẻ trong HTML
+
+- `HTML <!--...--> Tag` : thẻ này có chức năng dùng để comment
+- `HTML <!DOCTYPE> Declaration` : thẻ này khai báo để bắt đầu một chương trình HTML
+  
+- `HTML <a> Tag` : Thẻ <a> xác định một siêu liên kết, được sử dụng để liên kết từ trang này sang trang khác.
+```html
+<a href="https://www.w3schools.com">Visit W3Schools.com!</a>
+```
+- `HTML <abbr> Tag` : thẻ này dùng để xác định các từ viết tắt
+- `HTML <acronym> Tag` : Thẻ <acronym> đã được sử dụng trong HTML 4 để xác định từ viết tắt.
+- `HTML <address> Tag` : Thẻ <address> xác định thông tin liên hệ của tác giả/chủ sở hữu tài liệu hoặc bài viết.
+- `HTML <applet> Tag` : Thẻ <applet> đã được sử dụng trong HTML 4 để xác định một applet nhúng (Plug-in).
+- `HTML <area> Tag`: Thẻ <area> xác định một khu vực bên trong bản đồ hình ảnh (bản đồ hình ảnh là hình ảnh có các khu vực có thể nhấp được).
+- `HTML <article> Tag` : Thẻ <article> chỉ định nội dung độc lập, độc lập.
+```html
+<article>
+<h2>Google Chrome</h2>
+<p>Google Chrome is a web browser developed by Google, released in 2008. Chrome is the world's most popular web browser today!</p>
+</article>
+
+<article>
+<h2>Mozilla Firefox</h2>
+<p>Mozilla Firefox is an open-source web browser developed by Mozilla. Firefox has been the second most popular web browser since January, 2018.</p>
+</article>
+
+<article>
+<h2>Microsoft Edge</h2>
+<p>Microsoft Edge is a web browser developed by Microsoft, released in 2015. Microsoft Edge replaced Internet Explorer.</p>
+</article>
+```
+- `HTML <aside> Tag` : Thẻ <aside> xác định một số nội dung ngoài nội dung mà nó được đặt vào.
+- `HTML <audio> Tag` : Thẻ <audio> được sử dụng để nhúng nội dung âm thanh vào tài liệu, chẳng hạn như nhạc hoặc các luồng âm thanh khác.
+- `HTML <b> Tag` : Thẻ <b> chỉ định văn bản in đậm mà không cần thêm bất kỳ tầm quan trọng nào.
+```html
+<p>This is normal text - <b>and this is bold text</b>.</p>
+```
+- `HTML <base> Tag` : Thẻ <base> chỉ định URL cơ sở và/hoặc đích cho tất cả các URL tương đối trong tài liệu.
+- 
 
 
 
